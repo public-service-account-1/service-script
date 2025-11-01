@@ -11,7 +11,7 @@ Config = {
 }
 
 local function main()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/public-service-account-1/service-script/refs/heads/main/Main-Script", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/public-service-account-1/service-script/refs/heads/main/Main-Script"))()
 end
 
 if getgenv().SystemCode then return end
