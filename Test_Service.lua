@@ -23,9 +23,9 @@ end
 -- CONFIG
 -----------------------------------
 local Config = {
-    api = "",
-    service = "",
-    provider = ""
+    api = "a7bb8dbe-9362-4416-9970-20f0c05f0965", 
+    service = "bot_script",
+    provider = "bot_key_provider"
 }
 
 -----------------------------------
